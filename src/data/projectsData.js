@@ -19,7 +19,7 @@ const projectsData = [
 				icon: FaGithub,
 			},
 			{
-				link: "https://bibhuti.vercel.app/",
+				link: "https://bibhutibhushan.vercel.app/",
 				icon: CgWebsite,
 			},
 		],
