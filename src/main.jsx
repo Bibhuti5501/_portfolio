@@ -20,12 +20,12 @@ const root = ReactDOM.createRoot(
 	document.getElementById("root")
 );
 root.render(
-	<Provider store={store}>
+	<Provider store={store} >
 		<Router>
 			<Routes>
 				<Route path="/" element={<App />}>
 					<Route path="/" element={<Home />} />
-					<Route path="/career" element={<Career />} />
+					<Route path="/career" element={<ComingSoon />} />
 					<Route path="/education" element={<Education />} />
 					<Route path="/projects" element={<Projects />} />
 					<Route path="/coming-soon" element={<ComingSoon />} />
