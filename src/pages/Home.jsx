@@ -5,14 +5,13 @@ function Home() {
 	return (
 		<div className="text-center p-5 overflow-y-auto">
 			<img
-				src={`/bharatbhusal.jpeg`}
+				src={`/bibhutibhushan.jpeg`}
 				alt="Profile"
 				className="w-65 h-60 rounded-full mx-auto mb-4"
 			/>
-			<h1 className="text-4xl font-bold">Bharat Bhusal</h1>
+			<h1 className="text-4xl font-bold">Bibhuti Bhushan</h1>
 			<p className="text-gray-400 text-[16px] mt-2 leading-[24px]">
-				Security Auditor | MERN Stack Developer | Community
-				Manager
+				Communiy Manager | Java Developer | Web Developer
 			</p>
 
 			<SocialLinks />
