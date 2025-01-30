@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { LuMenuSquare } from "react-icons/lu";
+import { LuMenu } from "react-icons/lu";
 import Button from "./Button";
 import useTheme from "../hooks/useTheme";
 import { PiBagSimpleFill } from "react-icons/pi";
@@ -23,7 +23,7 @@ const Explore = () => {
 		<div className="fixed top-5 right-5 z-50">
 			{!isOpen ? (
 				<Button
-					label={<LuMenuSquare />}
+					label={<LuMenu />}
 					onClick={toggleMenu}
 					variant="filled"
 					className={"p-3"}
