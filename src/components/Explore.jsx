@@ -48,9 +48,9 @@ const Explore = () => {
 				<ul className="px-0 py-3">
 					{[
 						[<FaHome />, ""],
-						[<PiBagSimpleFill />, "career"],
 						[<FaGraduationCap />, "education"],
 						[<GrProjects />, "projects"],
+						[<PiBagSimpleFill />, "career"],
 					].map((item, index) => (
 						<li key={index} className="pb-2">
 							<Button
