@@ -13,37 +13,27 @@ import Button from "./Button";
 
 const socialLinks = [
 	{
-		href: "https://github.com/bharatbhusal",
+		href: "https://github.com/Bibhuti5501",
 		icon: <FaGithub className="text-2xl" />,
 		label: "GitHub",
 	},
 	{
-		href: "https://twitter.com/bharatbhusal02",
+		href: "https://x.com/BIBHUTI8765",
 		icon: <FaXTwitter className="text-2xl" />,
 		label: "Twitter",
 	},
 	{
-		href: "https://t.me/petermartin0",
-		icon: <FaTelegram className="text-2xl" />,
-		label: "Telegram",
-	},
-	{
-		href: "mailto:bharatbhusal78@gmail.com",
+		href: "mailto:bibhutisingh8765@gmail.com",
 		icon: <HiOutlineMail className="text-2xl" />,
 		label: "Email",
 	},
 	{
-		href: "https://substack.com/@bharatbhusal",
-		icon: <SiSubstack className="text-2xl" />,
-		label: "Substack",
-	},
-	{
-		href: "https://linkedin.com/in/bharatbhusal/",
+		href: "https://www.linkedin.com/in/bibhutibhushansingh/",
 		icon: <FaLinkedin className="text-2xl" />,
 		label: "LinkedIn",
 	},
 	{
-		href: "https://www.instagram.com/bharatbhusal",
+		href: "https://www.instagram.com/bibhuti5501/",
 		icon: <FaInstagram className="text-2xl" />,
 		label: "Instagram",
 	},
