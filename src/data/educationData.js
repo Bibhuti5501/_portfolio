@@ -11,7 +11,7 @@ const educationData = [
 		institution: "GITAM University",
 		duration: "10/2021 - Present",
 		address: "Hyderabad, India",
-		cgpa: "9.14/10",
+		cgpa: "7.37/10",
 		links: [
 			{
 				link: "https://www.gitam.edu/",
@@ -41,53 +41,44 @@ const educationData = [
 		],
 	},
 	{
-		institution: "Kathmandu World School",
-		duration: "2019 - 2020",
-		address: "Bhaktapur, Nepal",
-		cgpa: "3.61/4",
+		institution: "Narayana Junior College",
+		duration: "2019 - 2021",
+		address: "Chandanagar, Telangana, India",
+		cgpa: "6.6/10",
 		links: [
 			{
-				link: "https://kws.edu.np/",
+				link: "https://www.narayanajuniorcolleges.com/",
 				icon: CgWebsite,
 				type: "website",
 			},
-			{
-				link: "https://www.instagram.com/kathmanduws/",
-				icon: FaInstagram,
-				type: "instagram",
-			},
-			{
-				link: "https://www.facebook.com/KathmanduWS",
-				icon: FaFacebook,
-				type: "facebook",
-			},
+			
 		],
 		courses: [
 			"Physics",
 			"Chemistry",
 			"Mathematics",
-			"Computer Science",
 			"English",
+			"Sanskrit",
 		],
 	},
 	{
 		institution:
-			"SOS Hermann Gmeiner Higher Secondary School",
-		duration: "2017 - 2018",
-		address: "Surkhet, Nepal",
+			"G.D.Mother International School",
+		duration: "2014 - 2019",
+		address: "Muzaffarpur, Bihar, India",
 		cgpa: "9.14/10",
 		links: [
 			{
-				link: "https://www.soshgssurkhet.edu.np/",
+				link: "https://gdmis.in/",
 				icon: CgWebsite,
 				type: "website",
 			},
 			{
-				link:
-					"https://www.facebook.com/people/SOS-Hermann-Gmeiner-School-Surkhet/100083000935528/",
-				icon: FaFacebook,
-				type: "facebook",
+				link: "https://www.instagram.com/g_d_m_i_s/",
+				icon: FaInstagram,
+				type: "instagram",
 			},
+			
 		],
 		courses: [
 			"Science",
@@ -95,6 +86,8 @@ const educationData = [
 			"English",
 			"Social Studies",
 			"Computer Science",
+			"Sanskrit",
+			
 		],
 	},
 ];
